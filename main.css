@@ -1,0 +1,14 @@
+body {
+    background: lightblue;
+    font-size: 14px;
+}
+
+img {
+    border-radius: 30px;
+}
+
+@media all and (min-width: 800x) {
+    body {
+        font-size: 16px;
+    }
+}
